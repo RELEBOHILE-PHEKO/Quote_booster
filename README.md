@@ -26,5 +26,5 @@ Responsive Design: Handles varying text lengths
 Tap "Inspire Me" button
 App displays a new quote
 SnackBar appears with a related tip
-SnackBar auto-dismisses after 5 seconds  How It Works
+SnackBar auto-dismisses after 5 seconds 
 
