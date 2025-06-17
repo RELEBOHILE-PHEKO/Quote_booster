@@ -1,9 +1,9 @@
-##Quote Booster - SnackBar Widget Demo 📱
+## Quote Booster - SnackBar Widget Demo 📱
 A Flutter app demonstrating SnackBar widget implementation through an inspirational quotes application. This project showcases SnackBar properties, styling, and best practices in a real-world context.
 🎯 Demo Purpose
 This app demonstrates:
 
-SnackBar widget configuration and customization
+ ## SnackBar widget configuration and customization
 Floating behavior with rounded corners
 Content layout with icons and text
 Integration with user interactions
